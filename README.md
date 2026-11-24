@@ -1,4 +1,4 @@
-# sharksapi-ai
+# SharksAPI.AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sharksapi-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sharksapi.ai/
+SharksAPI.AI is an AI‑powered marketing platform built by Marketing Sharks OÜ in Estonia. It offers small and medium businesses a full digital‑agency team – a marketing director, SEO, Google Ads, Meta Ads, Google Maps specialists – all operating within the user’s own accounts. The platform provides AI agents, dashboards, approvals, spend limits and integrates with Claude, Gemini, Hermes and other LLMs. It aims to deliver agency‑level results at a fraction of traditional costs, with transparent data handling and a privacy‑first approach.
+
+**Areas:** Company · AI · Marketing · Automation · SaaS · Estonia
+
+## SharksAPI.AI on APIs.io
+
+Everything profiled for SharksAPI.AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sharksapi-ai/](https://apis.io/providers/sharksapi-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [SharksAPI.AI Authentication API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-authentication-api/) — The Authentication API from SharksAPI.AI — 1 operation(s) for authentication.
+- [SharksAPI.AI Marketing - Advertising API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-advertising-api/) — The Marketing - Advertising API from SharksAPI.AI — 2 operation(s) for marketing - advertising.
+- [SharksAPI.AI Marketing - Brand Monitoring API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-brand-monitoring-api/) — The Marketing - Brand Monitoring API from SharksAPI.AI — 2 operation(s) for marketing - brand monitoring.
+- [SharksAPI.AI Marketing - Email API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-email-api/) — The Marketing - Email API from SharksAPI.AI — 2 operation(s) for marketing - email.
+- [SharksAPI.AI Marketing - Google Analytics API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-google-analytics-api/) — The Marketing - Google Analytics API from SharksAPI.AI — 2 operation(s) for marketing - google analytics.
+- [SharksAPI.AI Marketing - Local SEO API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-local-seo-api/) — The Marketing - Local SEO API from SharksAPI.AI — 3 operation(s) for marketing - local seo.
+- [SharksAPI.AI Marketing - Overview API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-overview-api/) — The Marketing - Overview API from SharksAPI.AI — 1 operation(s) for marketing - overview.
+- [SharksAPI.AI Marketing - Search Console API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-search-console-api/) — The Marketing - Search Console API from SharksAPI.AI — 6 operation(s) for marketing - search console.
+- [SharksAPI.AI Marketing - Social Media API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-social-media-api/) — The Marketing - Social Media API from SharksAPI.AI — 10 operation(s) for marketing - social media.
+- [SharksAPI.AI Marketing - Web Scraper API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-web-scraper-api/) — The Marketing - Web Scraper API from SharksAPI.AI — 1 operation(s) for marketing - web scraper.
+- [SharksAPI.AI Marketing - WordPress API](https://apis.io/apis/sharksapi-ai/sharksapi-ai-marketing-wordpress-api/) — The Marketing - WordPress API from SharksAPI.AI — 1 operation(s) for marketing - wordpress.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SharksAPI.AI Agentic Access](https://apis.io/agentic-access/sharksapi-ai/sharksapi-ai-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SharksAPI.AI API Rules](https://apis.io/rules/sharksapi-ai/sharksapi-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SharksAPI.AI Authentication](https://apis.io/security/sharksapi-ai/sharksapi-ai-authentication/)
+- [SharksAPI.AI Domain Security](https://apis.io/security/sharksapi-ai/sharksapi-ai-domain-security/)
+- [SharksAPI.AI Vulnerability Disclosure](https://apis.io/security/sharksapi-ai/sharksapi-ai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SharksAPI.AI Plans Pricing](https://apis.io/plans/sharksapi-ai/sharksapi-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sharksapi.ai/)
+- [Documentation](https://sharksapi.ai/blog/category/guides)
+- [Pricing](https://sharksapi.ai/pricing)
+- [Blog](https://sharksapi.ai/blog)
+- [Terms of service](https://sharksapi.ai/terms)
+- [Privacy policy](https://sharksapi.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 46.2** — developing · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 41.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 48.5 |
+
+**Agent readiness 54.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sharksapi-ai/](https://apis.io/providers/sharksapi-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SharksAPI.AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sharksapi-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
